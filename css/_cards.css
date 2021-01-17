@@ -1,0 +1,15 @@
+.card {
+  height: 200px;
+  width: 200px;
+  margin: 10px auto;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+}
+.outline {
+  border: 2px solid var(--primary-colour);
+}
+.regular {
+  background-color: var(--secondary-colour);
+}
+.filled {
+  background-color: var(--primary-colour);
+}

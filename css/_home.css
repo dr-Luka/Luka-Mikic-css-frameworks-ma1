@@ -1,0 +1,7 @@
+h1 {
+  font-size: 2em;
+  text-align: center;
+  padding: 40px 0px 20px 0px;
+  font-weight: 200;
+  color: var(--header-colour);
+}

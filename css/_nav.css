@@ -1,0 +1,11 @@
+.navbar {
+  background-color: var(--secondary-colour) !important;
+  text-transform: uppercase;
+}
+.navbar-light .navbar-nav .active > .nav-link {
+  color: var(--primary-colour);
+}
+.navbar-light .navbar-nav .nav-link {
+  color: var(--text-colour);
+  font-size: 15px;
+}
